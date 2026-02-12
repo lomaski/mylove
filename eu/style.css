@@ -1,0 +1,58 @@
+.content{
+    padding: 0 100px;
+}
+.cont{
+    width: 100%;
+    align-items: center;
+}
+
+.cont p{
+    color: #ffffff;
+    padding: 20px 30px;
+}
+
+body{
+    background-color:rgb(180, 185, 187);
+}
+
+.cont h1{
+    padding: 20px;
+}
+
+.formulario {
+    padding: 10px 20px;
+}
+
+.skills{
+    padding: 20px;
+}
+
+.cont h1 a, h5{
+    color: #6f42c1;
+}
+
+.skills1 img{
+    height: 80px;
+    width: 80px;
+}
+
+.cont .a1{
+    margin: 20px;
+}
+
+.projetos{
+    padding: 20px;
+}
+
+.projetos1 img{
+    width: 120px;
+    height: 120px;
+}
+
+.cont div{
+    padding: 20px;
+}
+
+.cont div div a:hover img{
+    transform: scale(1.5);
+}
